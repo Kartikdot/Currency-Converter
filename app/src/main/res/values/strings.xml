@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="shared_pref_file_name">LastRates</string>
+    <string name="not_connected">No Internet Connection:Exchange Rates will not be up-to-date</string>
+    <string-array name="country_abbriviated">
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>ZAR</item>
+        <item>EUR</item>
+    </string-array>
+    <string-array name="country_name">
+        <item>Australian Dollar</item>
+        <item>Bulgarian Lev</item>
+        <item>Brazilian Real</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Frank</item>
+        <item>Chinese Yuan</item>
+        <item>Czech Koruna</item>
+        <item>Danish Krone</item>
+        <item>British Pound</item>
+        <item>Hong Kong Dollar</item>
+        <item>Croatian Kuna</item>
+        <item>Hungarian Forint</item>
+        <item>Indonesian Rupiah</item>
+        <item>Israeli New Shekel</item>
+        <item>Indian Rupee</item>
+        <item>Japanese Yen</item>
+        <item>South Korean Won</item>
+        <item>Mexican Peso</item>
+        <item>Malaysian Ringgit</item>
+        <item>Norwegian Krone</item>
+        <item>New Zealand Dollar</item>
+        <item>Philippine Peso</item>
+        <item>Polish Zloty</item>
+        <item>Romanian Leu</item>
+        <item>Russian Ruble</item>
+        <item>Swedish Krona</item>
+        <item>Singapore Dollar</item>
+        <item>Thai Baht</item>
+        <item>Turkish Lira</item>
+        <item>South African Rand</item>
+        <item>Euro</item>
+    </string-array>
+
+
+</resources>
