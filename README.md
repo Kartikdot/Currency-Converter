@@ -1,2 +1,2 @@
 # Currency-Converter
-Small app made using fixer.io api.
+Small app made using _fixer.io api_.
