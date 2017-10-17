@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CurrencyConverter.iml" filepath="$PROJECT_DIR$/CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency-Converter.iml" filepath="$PROJECT_DIR$/Currency-Converter.iml" />
+      <module fileurl="file://C:\Users\Princess\HactoberFest\Currency-Converter\CurrencyConverter.iml" filepath="C:\Users\Princess\HactoberFest\Currency-Converter\CurrencyConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Princess\HactoberFest\Currency-Converter\app\app.iml" filepath="C:\Users\Princess\HactoberFest\Currency-Converter\app\app.iml" />
     </modules>
   </component>
 </project>
